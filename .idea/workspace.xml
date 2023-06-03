@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79aef61d-3de1-4b3f-9e0e-53d9b0a1ced2" name="Changes" comment="修改">
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/application-insights.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/body.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/cnzz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/disqus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/gitbook-sharing.json.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/google-analytics.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/google-analytics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/mathjax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/metadata-home.json.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/metadata-post.json.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/metadata.json.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/toc-date.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/search-base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/contact.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/design/draft.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-04-27-why.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-04-28-howto.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-04-29-license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-08-10-toc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-05-24-page_cover.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-06-26-wide_tables.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-06-30-tips_warnings_dangers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dinosaur.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/fonts/fontawesome/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/fonts/fontawesome/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/fonts/fontawesome/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/fonts/fontawesome/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/fonts/fontawesome/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook-plugin-back-to-top-button/plugin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook-plugin-back-to-top-button/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook-plugin-chapter-fold/chapter-fold.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook-plugin-chapter-fold/chapter-fold.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook-plugin-copy-code-button/toggle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook-plugin-fontsettings/fontsettings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook-plugin-fontsettings/website.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook-plugin-lunr/lunr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook-plugin-lunr/search-lunr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook-plugin-search-pro/jquery.mark.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook-plugin-search-pro/search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook-plugin-search-pro/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook-plugin-search/lunr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook-plugin-search/search-engine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook-plugin-search/search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook-plugin-search/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook-plugin-sharing/buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/gitbook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/images/apple-touch-icon-precomposed-152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/rouge/base16.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/rouge/bw.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/rouge/colorful.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/rouge/github.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/rouge/gruvbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/rouge/igor_pro.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/rouge/magritte.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/rouge/molokai.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/rouge/monokai.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/rouge/monokai_sublime.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/rouge/pastie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/rouge/thankful_eyes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/rouge/tulip.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitbook/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/search_plus_index.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Qg69Orbx1AfgxbE0SQCHMbmyMu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/xpy/IdeaProjects/peiyuan-xu.github.io&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;/Users/xpy/IdeaProjects/peiyuan-xu.github.io/node_modules/stylelint&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Shell Script.initpost.sh">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/peiyuan-xu.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="initpost.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/initpost.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/tools/run" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.initpost.sh" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Shell Script.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79aef61d-3de1-4b3f-9e0e-53d9b0a1ced2" name="Changes" comment="" />
+      <created>1685762724788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685762724788</updated>
+      <workItem from="1685762726300" duration="2101000" />
+      <workItem from="1685765366235" duration="37000" />
+      <workItem from="1685765463100" duration="9808000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
+  </component>
+</project>
