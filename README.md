@@ -4,30 +4,13 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+## Brief Bio
+Peiyuan Xu is a senior software engineer at Ant Group (from 06/2019 to present), responsible for the construction of multiple 
+systems for blockchain platform products and innovative business products. Prior to that, he earned
+the Master degrees in computer science and technology from Huazhong University of Science and Technology.
 
-### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
-
-### _config.yml
-> Code block will look like this.
-```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
-```
-
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
+His work focuses on platform products and business products based on innovative technology:
+- Blockchain
+- Privacy Preserving Computation
+- 3D
+- AI
