@@ -41,7 +41,7 @@ service using scmsimagelib, this user defined service is in service package.
 ## 数学建模挑战赛 (2016)
 集训、国赛、美赛算法实现，各种智能算法（遗传算法、模拟退火算法、蚁群算法、粒子算法、神经网络算法等）实现和优化。
 
-[数学建模各类问题和比赛 source code][router-source-code]
+[数学建模各类问题和比赛 source code][mcm-source-code]
 
 [scms-source-code]: https://github.com/peiyuan-xu/SCMS
 [scms-test-source-code]: https://github.com/peiyuan-xu/SCMSTest
@@ -49,4 +49,4 @@ service using scmsimagelib, this user defined service is in service package.
 [blockchain-graph-source-code]: https://github.com/peiyuan-xu/BlockChainGrap
 [cdn-position-source-code]:https://github.com/peiyuan-xu/cdn-position
 [router-source-code]:https://github.com/peiyuan-xu/route-selection
-[cdn-position-source-code]:https://github.com/peiyuan-xu/cdn-position
+[mcm-source-code]:https://github.com/peiyuan-xu/mcm
